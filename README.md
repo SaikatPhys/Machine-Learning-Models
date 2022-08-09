@@ -10,4 +10,4 @@
 
 * [A general fine-tuning recipe of (BERT like) `Hugging Face` transformer models using **native PyTorch** (training workflow is demonstrated on German UMSAB dataset)](https://github.com/SaikatPhys/NLP-Transformer-Models/blob/main/finetune-transformers-with-pytorch.ipynb) 
 
-* [A general hyperparameter optimization recipe for BERT-like `Hugging Face` transformer models by using the transformers **Trainer** class on UMSAB dataset.](https://github.com/SaikatPhys/nlp-transformer-models/blob/main/hyperparameter-optimization-of-tranformers.ipynb)
+* [A general hyperparameter optimization recipe for BERT-like `Hugging Face` transformer models by using the transformers **Trainer** class (on UMSAB dataset).](https://github.com/SaikatPhys/nlp-transformer-models/blob/main/hyperparameter-optimization-of-tranformers.ipynb)
